@@ -31,8 +31,8 @@ setup(name='samahan.policy',
           'collective.grok',
           'plone.app.referenceablebehavior',
           'collective.dexteritytextindexer',
-          'plone.app.multilingual',
-          'plone.multilingualbehavior',
+          # 'plone.app.multilingual',
+          # 'plone.multilingualbehavior',
           # -*- Extra requirements: -*-
       ],
       extras_require={
